@@ -4,65 +4,65 @@
 word list:
 	name: type
 	word:
-		name: Basic 
+		name: Básico 
 		is prefix: true
 	word:
-		name: Legendary 
+		name: Legendario 
 		is prefix: true
 	word:
-		name: Snow 
+		name: Nevado 
 		is prefix: true
 	word:
-		name: Token 
+		name: Ficha 
 		is prefix: true
 	word:
 		name: Tribal 
 		is prefix: true
 	word:
-		name: World 
+		name: Mundo 
 		is prefix: true
 		line below: true
-	word: Conspiracy
-	word: Creature
-	word: Artifact
-	word: Artifact Creature
-	word: Enchantment
-	word: Enchantment Creature
-	word: Instant
-	word: Sorcery
-	word: Land
+	word: Conspiración
+	word: Criatura
+	word: Artefacto
+	word: Criatura Artefacto
+	word: Encantamiento
+	word: Criatura Encantamiento
+	word: Instantáneo
+	word: Conjuto
+	word: Tierra
 	word: Planeswalker
-	word: Emblem
-	word: Phenomenon
-	word: Plane
+	word: Emblema
+	word: Fenómeno
+	word: Llanura
 
 word list:
 	name: race
 	word:
 		script: all_races()
 		line below: true
-	word: Angel
-	word: Beast
-	word: Construct
-	word: Demon
-	word: Dragon
-	word: Elf
-	word: Faerie
-	word: Giant
+	word: Ángel
+	word: Bestia
+	word: Constructo
+	word: Demonio
+	word: Dragón
+	word: Elfo
+	word: Hada
+	word: Gigante
 	word: Goblin
-	word: Golem
-	word: Human
-	word: Merfolk
+	word: Gólem
+	word: Humano
+	word: Sirena
 	word: Zombie
 	word:
-		name: All Races
+		name: Todas las Razas
 		word:
 			name: A
-			word: Aetherborn
-			word: Angel
-			word: Antelope
-			word: Ape
-			word: Archon
+			word: Etergénito
+			word: Ángel
+			word: Antílope
+			word: Simio
+			word: Arconte
 			word: Assembly-Worker
 			word: Atog
 			word: Aurochs
@@ -70,109 +70,109 @@ word list:
 			word: Azra
 		word:
 			name: B
-			word: Badger
-			word: Basilisk
-			word: Bat
-			word: Bear
-			word: Beast
+			word: Tejón
+			word: Basilisco
+			word: Murciélago
+			word: Oso
+			word: Bestia
 			word: Beeble
 			word: Beholder
-			word: Bird
+			word: Pájaro
 			word: Blinkmoth
-			word: Boar
+			word: Jabalí
 			word: Bringer
 			word: Brushwagg
 		word:
 			name: C
 			word: Camarid
-			word: Camel
+			word: Camello
 			word: Caribou
 			word: Carrier
-			word: Cat
-			word: Centaur
+			word: Gato
+			word: Centauro
 			word: Cephalid
-			word: Chimera
+			word: Quimera
 			word: Cockatrice
-			word: Construct
-			word: Crab
-			word: Crocodile
-			word: Cyclops
+			word: Constructo
+			word: Cangrejo
+			word: Cocodrilo
+			word: Cíclope
 		word:
 			name: D
 			word: Dauthi
-			word: Demigod
-			word: Demon
-			word: Devil
-			word: Dinosaur
+			word: Semidiós
+			word: Demonio
+			word: Diablo
+			word: Dinosaurio
 			word: Djinn
-			word: Dragon
-			word: Drake
+			word: Dragón
+			word: Draco
 			word: Dreadnought
-			word: Drone
-			word: Dryad
-			word: Dwarf
+			word: Dron
+			word: Dríade
+			word: Enano
 		word:
 			name: E
-			word: Egg
+			word: Huevo
 			word: Efreet
 			word: Eldrazi
 			word: Elemental
-			word: Elephant
-			word: Elf
-			word: Elk
-			word: Eye
+			word: Elefante
+			word: Elfo
+			word: Alce
+			word: Ojo
 		word:
 			name: F
-			word: Faerie
+			word: Hada
 			word: Ferret
-			word: Fish
-			word: Fox
+			word: Pez
+			word: Zorro
 			word: Fractal
-			word: Frog
-			word: Fungus
+			word: Rana
+			word: Hongo
 		word:
 			name: G
-			word: Gargoyle
-			word: Germ
-			word: Giant
+			word: Gárgola
+			word: Gérmen
+			word: Gigante
 			word: Gnoll
-			word: Gnome
-			word: Goat
+			word: Gnomo
+			word: Cabra
 			word: Goblin
-			word: God
-			word: Golem
-			word: Gorgon
+			word: Dios
+			word: Gólem
+			word: Gorgona
 			word: Graveborn
 			word: Gremlin
-			word: Griffin
+			word: Grifo
 		word:
 			name: H
 			word: Hag
-			word: Halfling
-			word: Hamster
-			word: Harpy
+			word: Mediano
+			word: Hámster
+			word: Arpía
 			word: Hellion
-			word: Hippo
-			word: Hippogriff
+			word: Hipopótamo
+			word: Hipogrifo
 			word: Homarid
-			word: Homunculus
+			word: Homúnculo
 			word: Horror
-			word: Horse
-			word: Hound
-			word: Human
-			word: Hydra
-			word: Hyena
+			word: Caballo
+			word: Sabueso
+			word: Humano
+			word: Hidra
+			word: Hiena
 		word:
 			name: I
-			word: Illusion
+			word: Ilusión
 			word: Imp
-			word: Incarnation
+			word: Encarnación
 			word: Inkling
-			word: Insect
+			word: Insecto
 		word:
 			name: J
 			word: Jackal
-			word: Jellyfish
+			word: Medusa
 			word: Juggernaut
 		word:
 			name: K
@@ -187,40 +187,40 @@ word list:
 			word: Lamia
 			word: Lammasu
 			word: Leech
-			word: Leviathan
+			word: Leviatán
 			word: Lhurgoyf
 			word: Licid
-			word: Lizard
+			word: Lagarto
 		word:
 			name: M
-			word: Manticore
-			word: Masticore
-			word: Merfolk
+			word: Mantícora
+			word: Mastícora
+			word: Sirena
 			word: Metathran
-			word: Minotaur
-			word: Mole
+			word: Minotauro
+			word: Topo
 			word: Mongoose
-			word: Monkey
+			word: Mono
 			word: Moonfolk
-			word: Mouse
-			word: Mutant
+			word: Ratón
+			word: Mutante
 			word: Myr
 		word:
 			name: N
 			word: Naga
 			word: Nautilus
 			word: Nephilim
-			word: Nightmare
+			word: Pesadilla
 			word: Nightstalker
 			word: Noggle
-			word: Nymph
+			word: Ninfa
 		word:
 			name: O
-			word: Octopus
-			word: Ogre
+			word: Pulpo
+			word: Ogro
 			word: Ooze
-			word: Orb
-			word: Orc
+			word: Orbe
+			word: Orco
 			word: Orgg
 			word: Otter
 			word: Ouphe
@@ -228,64 +228,64 @@ word list:
 			word: Oyster
 		word:
 			name: P
-			word: Pangolin
-			word: Pegasus
+			word: Pangolín
+			word: Pegaso
 			word: Pentavite
 			word: Pest
 			word: Phelddagrif
-			word: Phoenix
+			word: Fénix
 			word: Pincher
-			word: Plant
+			word: Planta
 			word: Praetor
-			word: Prism
+			word: Prisma
 		word:
 			name: R
-			word: Rabbit
-			word: Rat
-			word: Reflection
-			word: Rhino
+			word: Conejo
+			word: Rata
+			word: Reflejo
+			word: Rinoceronte
 		word:
 			name: S
 			word:
 				name: Sa-Sl
 				word: Sable
-				word: Salamander
-				word: Sand
+				word: Salamandra
+				word: Arena
 				word: Saproling
-				word: Satyr
+				word: Sátiro
 				word: Scarecrow
 				word: Scorpion
-				word: Sculpture
-				word: Serpent
+				word: Escultura
+				word: Serpiente
 				word: Servo
-				word: Shade
-				word: Shapeshifter
-				word: Shark
-				word: Sheep
-				word: Siren
-				word: Skeleton
+				word: Sombra
+				word: Cambiaformas
+				word: Tiburón
+				word: Obeja
+				word: Sirena
+				word: Esqueleto
 				word: Slith
-				word: Sliver
-				word: Slug
+				word: Plata
+				word: Gusano
 			word:
 				name: Sn-Sz
-				word: Snake
+				word: Serpiente
 				word: Soltari
-				word: Spawn
-				word: Specter
-				word: Sphinx
-				word: Spider
+				word: Engendro
+				word: Esprectro
+				word: Esfinge
+				word: Araña
 				word: Spike
-				word: Spirit
+				word: Espíritu
 				word: Splinter
 				word: Sponge
-				word: Squid
-				word: Squirrel
-				word: Starfish
+				word: Calamar
+				word: Ardilla
+				word: Estrella de Mar
 				word: Surrakar
 		word:
 			name: T
-			word: Tentacle
+			word: Tentáculo
 			word: Tetravite
 			word: Thalakos
 			word: Thopter
@@ -294,27 +294,27 @@ word list:
 			word: Treefolk
 			word: Trilobite
 			word: Triskelavite
-			word: Troll
-			word: Turtle
+			word: Trol
+			word: Tortuga
 		word:
 			name: U
-			word: Unicorn
+			word: Unicornio
 		word:
 			name: V
-			word: Vampire
+			word: Vampiro
 			word: Vedalken
 			word: Viashino
 			word: Volver
 		word:
 			name: W
-			word: Wall
+			word: Muro
 			word: Weird
-			word: Werewolf
-			word: Whale
-			word: Wolf
+			word: Hombre Lobo
+			word: Ballena
+			word: Lobo
 			word: Wolverine
 			word: Wombat
-			word: Worm
+			word: Gusano
 			word: Wraith
 			word: Wurm
 		word:
@@ -330,97 +330,97 @@ word list:
 	word:
 		script: all_classes()
 		line below: true
-	word: Beast
-	word: Cleric
-	word: Druid
-	word: Knight
-	word: Rogue
-	word: Shaman
-	word: Soldier
-	word: Warrior
-	word: Wizard
+	word: Bestia
+	word: Clérigo
+	word: Druida
+	word: Caballero
+	word: Pícaro
+	word: Chamán
+	word: Soldado
+	word: Guerrero
+	word: Mago
 	word: Zombie
 	word:
 		name: All Classes
 		word:
 			name: A-C
-			word: Advisor
-			word: Ally
-			word: Archer
-			word: Archon
-			word: Army
-			word: Artificer
-			word: Assassin
-			word: Barbarian
-			word: Bard
-			word: Beast
+			word: Asesor
+			word: Aliado
+			word: Arcquero
+			word: Arconte
+			word: Ejército
+			word: Artificiero
+			word: Asesino
+			word: Bárbaro
+			word: Bardo
+			word: Bestia
 			word: Berserker
-			word: Bringer
-			word: Carrier
-			word: Citizen
-			word: Cleric
-			word: Coward
+			word: Portador
+			word: Transporte
+			word: Ciudadano
+			word: Clérigo
+			word: Cobarde
 		word:
 			name: D-I
-			word: Deserter
+			word: Desertor
 			word: Dreadnought
-			word: Drone
-			word: Druid
-			word: Egg
-			word: Elder
-			word: Flagbearer
+			word: Dron
+			word: Druida
+			word: Huevo
+			word: Anciano
+			word: Portaestandarte
 			word: Horror
-			word: Incarnation
+			word: Encarnación
 		word:
 			name: J-P
 			word: Juggernaut
-			word: Knight
-			word: Leviathan
-			word: Mercenary
+			word: Caballero
+			word: Leviatán
+			word: Mercenario
 			word: Minion
 			word: Monger
-			word: Monk
-			word: Mutant
-			word: Mystic
+			word: Monje
+			word: Mutante
+			word: Místico
 			word: Ninja
 			word: Noble
-			word: Nomad
-			word: Peasant
-			word: Pilot
-			word: Pirate
-			word: Processor
+			word: Nómada
+			word: Campesino
+			word: Piloto
+			word: Pirata
+			word: Procesador
 		word:
 			name: R-S
 			word: Ranger
-			word: Rebel
-			word: Reflection
+			word: Rebelde
+			word: Reflejo
 			word: Rigger
-			word: Rogue
+			word: Pícaro
 			word: Samurai
 			word: Scion
-			word: Scout
+			word: Explorador
 			word: Serf
-			word: Shaman
-			word: Skeleton
-			word: Soldier
-			word: Spawn
+			word: Chamán
+			word: Esqueleto
+			word: Soldado
+			word: Engendro
 			word: Spellshaper
-			word: Spirit
-			word: Survivor
+			word: Espíritu
+			word: Superviviente
 		word:
 			name: T-Z
 			word: Thopter
-			word: Vampire
+			word: Vampiro
 			word: Warlock
 			word: Warrior
-			word: Werewolf
-			word: Wizard
+			word: Hombre Lobo
+			word: Mago
 			word: Zombie
 
 word list:
 	name: artifact
 	word:
-		script: all_sub_types(match: "Artifact")
+		script: all_sub_types(match: "Artefacto")
 		line below: true
 	word: Contraption
 	word: Clue
@@ -434,30 +434,30 @@ word list:
 word list:
 	name: land
 	word:
-		script: all_sub_types(match: "Land")
+		script: all_sub_types(match: "Tierra")
 		line below: true
-	word: Plains
-	word: Island
-	word: Swamp
-	word: Mountain
-	word: Forest
-	word: Desert
-	word: Gate
-	word: Lair
+	word: Llanuras
+	word: Isla
+	word: Pantano
+	word: Montaña
+	word: Bosque
+	word: Desierto
+	word: Puerta
+	word: Guarida
 	word: Locus
-	word: Mine
-	word: Power-Plant
-	word: Tower
+	word: Mina
+	word: Central Eléctrica
+	word: Torre
 	word: Urza's
 
 word list:
 	name: enchantment
 	word:
-		script: all_sub_types(match: "Enchantment")
+		script: all_sub_types(match: "Encantamiento")
 		line below: true
 	word: Aura
-	word: Curse
-	word: Shrine
+	word: Maldición
+	word: Santuario
 	word: Cartouche
 	word: Saga
 
@@ -466,10 +466,10 @@ word list:
 	word:
 		script: all_sub_types(match: "Instant") + "," + all_sub_types(match: "Sorcery")
 		line below: true
-	word: Arcane
-	word: Lesson
-	word: Trap
-	word: Adventure
+	word: Arcano
+	word: Lección
+	word: Trampa
+	word: Aventura
 
 word list:
 	name: planeswalker
