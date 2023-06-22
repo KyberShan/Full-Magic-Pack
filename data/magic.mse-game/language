@@ -48,7 +48,7 @@ languages := [
 		is_spell          : match@(match: "(?i)Instant|Sorcery")
 		is_planeswalker   : match@(match: "(?i)Planeswalker|Emblem")
 		is_plane		  : match@(match: "(?i)Plane(?!swalker)")
-		word_list		  : "word_list"
+		word_list		  : "word_lists"
 	],
 	Russian: [
 		code              : "ru",
@@ -64,7 +64,7 @@ languages := [
 		is_spell          : match@(match: "(?i)Мгновенное заклинание|Волшебство")
 		is_planeswalker   : match@(match: "(?i)Planeswalker|Emblem")
 		is_plane		  : match@(match: "(?i)Plane(?!swalker)")
-		word_list		  : "word_list_ru"
+		word_list		  : "word_lists_ru"
 	],
 	Italiano: [
 		code              : "it",
@@ -80,7 +80,7 @@ languages := [
 		is_spell          : match@(match: "(?i)Istantaneo|Stregoneria")
 		is_planeswalker   : match@(match: "(?i)Planeswalker|Emblem")
 		is_plane		  : match@(match: "(?i)Plane(?!swalker)")
-		word_list		  : "word_list_it"
+		word_list		  : "word_lists_it"
 	],
 	"Português do Brasil" : [
 		code              : "pt-br",
@@ -96,7 +96,7 @@ languages := [
 		is_spell          : match@(match: "(?i)Mágica Instantânea|Feitiço")
 		is_planeswalker   : match@(match: "(?i)Planeswalker|Emblem")
 		is_plane		  : match@(match: "(?i)Plane(?!swalker)")
-		word_list		  : "word_list_pt"
+		word_list		  : "word_lists_pt"
 	],
 	Français: [
 		code              : "fr",
@@ -112,7 +112,23 @@ languages := [
 		is_spell          : match@(match: "(?i)Éphémère|Rituel")
 		is_planeswalker   : match@(match: "(?i)Planeswalker")
 		is_plane		  : match@(match: "(?i)Plane(?!swalker)")
-		word_list		  : "word_list_fr"
+		word_list		  : "word_lists_fr"
+	],
+	Español: [
+		code              : "es",
+		spellcheck_code   : "es_ES",
+		pt_separator      : "/",
+		type_separator    : " - "
+		subtype_separator : " ",
+		is_creature       : match@(match: "(?i)Criatura")
+		is_tribal         : match@(match: "(?i)Tribal")
+		is_artifact       : match@(match: "(?i)Artefacto")
+		is_land           : match@(match: "(?i)Tierra")
+		is_enchantment    : match@(match: "(?i)Encantamiento")
+		is_spell          : match@(match: "(?i)Instantáneo|Conjuro")
+		is_planeswalker   : match@(match: "(?i)Planeswalker")
+		is_plane		  : match@(match: "(?i)Plane(?!swalker)")
+		word_list		  : "word_lists_es"
 	]
 ]
 

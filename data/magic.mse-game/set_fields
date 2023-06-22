@@ -189,6 +189,7 @@ set field:
 	choice: English
 	choice: English (British)
 	choice: English (Canadian)
+	choice: Español
 	choice: Français
 	choice: Italiano
 	choice: Português do Brasil
@@ -434,8 +435,9 @@ default set style:
 		render style: both
 		choice images:
 			English:  /magic.mse-game/icons/language-en.png
-			English_(British): /magic.mse-game/icons/language-en-gb.png
-			English_(Canadian): /magic.mse-game/icons/language-en-ca.png
+			English_(British): /magic.mse-game/icons/language-en.png
+			English_(Canadian): /magic.mse-game/icons/language-en.png
+			English_(Canadian): /magic.mse-game/icons/language-es.png
 			Français: /magic.mse-game/icons/language-fr.png
 			Italiano: /magic.mse-game/icons/language-it.png
 			Português_do_Brasil: /magic.mse-game/icons/language-br.png
